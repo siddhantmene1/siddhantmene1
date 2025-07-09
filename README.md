@@ -70,7 +70,7 @@
 
 ###
 
-<h4 align="left">Connect with me</h4>
+<h4 align="left">Say Hi!!</h4>
 
 ###
 

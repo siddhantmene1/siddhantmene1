@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" src="https://github.com/siddhantmene1/siddhantmene1/blob/5133b74bba0eee472d8ecbc278dc3d6347525fa1/ChatGPT%20Image%20Jul%209%2C%202025%2C%2002_16_44%20PM.png"  />
+  <img height="500" src="https://github.com/siddhantmene1/siddhantmene1/blob/5133b74bba0eee472d8ecbc278dc3d6347525fa1/ChatGPT%20Image%20Jul%209%2C%202025%2C%2002_16_44%20PM.png"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">My tech stack</h4>
+<h2 align="left">My tech stack</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">But I have also worked on</h4>
+<h2 align="left">But I have also worked on</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h4 align="left">Say Hi!!</h4>
+<h2 align="left">Say Hi!!</h2>
 
 ###
 

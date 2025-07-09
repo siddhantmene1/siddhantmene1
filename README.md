@@ -13,15 +13,15 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="25" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
+  <img src="https://cdn.simpleicons.org/replit/F26207" height="25" alt="replit logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="40" alt="neo4j logo"  />
+  <img src="https://cdn.simpleicons.org/neo4j/4581C3" height=25" alt="neo4j logo"  />
 </div>
 
 ###

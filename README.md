@@ -57,7 +57,7 @@
 </div>
 
 ###
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantmene1" alt="siddhantmene1" /></a> </p>
 
 
@@ -65,13 +65,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhantmene1&show_icons=true&locale=en" alt="siddhantmene1" /></p>
 
+-->
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantmene1&" alt="siddhantmene1" /></p>
 
 ###
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="siddhantmene1" />
-
-###
 
 

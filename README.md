@@ -41,8 +41,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="notion logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />

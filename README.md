@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Hello World!!<br><br>I’m Siddhant, a part data nerd, part product dreamer, full-time tinkerer. I build ELT pipelines, craft dashboards that don’t scream Excel, and chase quirky ideas with serious intent. When I’m not in builder mode, you’ll find me on a trail, brewing dangerously good coffee, or emotionally invested in a football match I’m not playing. Forever curious, mostly caffeinated.</h3>
+<h3 align="left">Hello World!!<br><br>I’m Siddhant, part data nerd, part product dreamer, full-time tinkerer. I build ELT pipelines, craft dashboards that don’t scream Excel, and chase quirky ideas with serious intent. When I’m not in builder mode, you’ll find me on a trail, brewing dangerously good coffee, or emotionally invested in a football match I’m not playing. Forever curious, mostly caffeinated.</h3>
 
 ###
 

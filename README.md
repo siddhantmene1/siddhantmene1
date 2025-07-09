@@ -67,7 +67,9 @@
 
 -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantmene1&" alt="siddhantmene1" /></p>
+<p>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantmene1&" alt="siddhantmene1" /></p>
 
 ###
 

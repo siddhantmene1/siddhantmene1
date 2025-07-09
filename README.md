@@ -4,15 +4,15 @@
 
 ###
 
-<p align="left">Hello World!!<br>I’m Siddhant, a part data nerd, part product dreamer, full-time tinkerer. I build ELT pipelines, craft dashboards that don’t scream Excel, and chase quirky ideas with serious intent. When I’m not in builder mode, you’ll find me on a trail, brewing dangerously good coffee, or emotionally invested in a football match I’m not playing. Forever curious, mostly caffeinated.</p>
+<h6 align="left">Hello World!!<br><br>I’m Siddhant, a part data nerd, part product dreamer, full-time tinkerer. I build ELT pipelines, craft dashboards that don’t scream Excel, and chase quirky ideas with serious intent. When I’m not in builder mode, you’ll find me on a trail, brewing dangerously good coffee, or emotionally invested in a football match I’m not playing. Forever curious, mostly caffeinated.</h6>
 
 ###
 
-<h5 align="left">My tech stack</h5>
+<h4 align="left">My tech stack</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
@@ -26,11 +26,11 @@
 
 ###
 
-<p align="left">But I have also worked on</p>
+<h4 align="left">But I have also worked on</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -70,19 +70,19 @@
 
 ###
 
-<h6 align="left">Connect with me</h6>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
+<h4 align="left">Connect with me</h4>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/syd">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=syd&count=1&unique=true" alt="Spotify recently played"  />
+  <a href="https://www.linkedin.com/in/siddhantmene/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/siddhantmene/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:indsm98@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 

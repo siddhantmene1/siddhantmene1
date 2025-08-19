@@ -70,6 +70,19 @@ I'm leveling up my data viz game with a **30-day Tableau challenge** — 1 viz a
 </div>
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhantmene1/siddhantmene1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhantmene1/siddhantmene1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/siddhantmene1/siddhantmene1/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=siddhantmene1.siddhantmene1&"  />
+</div>
+
+###
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantmene1" alt="siddhantmene1" /></a> </p>
 
